@@ -1,0 +1,18 @@
+.banner{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#mainContainer{
+  display: flex;
+  flex-direction: column;
+}
+#buttonContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#blockButton{
+  height: 40px;
+  width: 100px;
+}
